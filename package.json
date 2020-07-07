@@ -1,0 +1,27 @@
+{
+  "name": "graphql_review",
+  "version": "1.0.0",
+  "description": "NodeJS GraphQL API",
+  "scripts": {
+    "start": "node main.js",
+    "stop-win": "Taskkill /IM node.exe /F",
+    "stop-linux": "killall node"
+  },
+  "engines": {
+    "node": "=13.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thoughtscript/https://github.com/Thoughtscript/graphql_review"
+  },
+  "license": "MIT",
+  "keywords": [
+    "NodeJS",
+    "GraphQL"
+  ],
+  "author": "Adam I. Gerard",
+  "devDependencies": {},
+  "dependencies": {
+    "graphql": "=14.7.0"
+  }
+}
