@@ -13,4 +13,8 @@ Navigate to the project directories:
 $ node main.js
 ```
 
-Or, better yet, execute the examples within the IDE.
+Or, better yet, execute the examples within the IDE of your choice. Cheers!
+
+## Licensing and Use
+
+There is no license attached.
