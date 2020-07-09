@@ -5,12 +5,12 @@
 
 Graph QL on Node review.
 
-```
-$ npm run start
+## Use
+
+Navigate to the project directories:
+
+```bash
+$ node main.js
 ```
 
-
-```
-$ npm run stop-win
-$ npm run stop-linux
-```
+Or, better yet, execute the examples within the IDE.

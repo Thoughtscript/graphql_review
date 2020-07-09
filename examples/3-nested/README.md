@@ -55,6 +55,8 @@ The **schema** built above will associate **types** with **resolvers** to handle
 1. Queries correspond to GET requests.
 1. Mutations correspond to POST, PUT, DELETE, and UPDATE requests.
 
+**Resolvers** handle or resolve the request per usual (as it is done in REST).
+
 ## Resources
 
 1. https://github.com/amaurymartiny/graphql-example

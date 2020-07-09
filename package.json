@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "NodeJS GraphQL API",
   "scripts": {
-    "start": "node examples/1-basic_queries/main.js",
     "stop-win": "Taskkill /IM node.exe /F",
     "stop-linux": "killall node"
   },
